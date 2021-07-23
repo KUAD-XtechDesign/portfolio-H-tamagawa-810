@@ -297,13 +297,13 @@ case1
  #case2 li{
    display: flex;
    background-color:rgb(53, 53, 53);
-   padding-top: 20px;
+   padding-top: 10px;
  }
 
  #case2 li .year{
    background-color: rgb(165, 165, 165);
    width:100px;
-   font-size:20px;
+   font-size:10px;
    font-weight: bold;
  }
 
