@@ -297,9 +297,10 @@ case1
  #case2 li{
    display: flex;
    background-color:rgb(53, 53, 53);
-   padding-right: 15px;
-   padding-left: 15px;
-   padding-top: 15px;
+   padding-right: 10px;
+   padding-left: 10px;
+   padding-top: 10px;
+   padding-bottom: 10px;
  }
 
  #case2 li .year{
